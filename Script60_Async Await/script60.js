@@ -39,7 +39,7 @@ async function doStuff(){
 
 doStuff()
 
-//My Task:-
+//My Task:- do it
 
 function getValueWithDelay(value,delay){
     return new Promise((resolve,rejecy)=>{

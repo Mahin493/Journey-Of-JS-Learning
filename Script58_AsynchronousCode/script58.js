@@ -24,4 +24,4 @@ function addClickEventListener(element,callback){
     element.addEventListener("click",callback)
 }
 
-console.log("Outside")
+//console.log("Outside")
